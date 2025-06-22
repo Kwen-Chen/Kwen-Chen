@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 I am a **PhD student** at **MAIS, Institute of Automation, Chinese Academy of Sciences**, specializing in Artificial Intelligence. 
 
-I thrive on following cutting-edge AI research, actively contributing to open-source communities, and exploring how AI can drive scientific discovery.
+I thrive on following cutting-edge AI research, actively contributing to open-source communities.
 
 ## 🌱 Interests
 
 - Staying up-to-date with the latest in AI research
 - Open-source collaboration
-- Applications of AI for advancing science
+- Applications of AI
 
 ## 📫 Contact
 
