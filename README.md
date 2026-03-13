@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 I am a **PhD student** at **MAIS, Institute of Automation, Chinese Academy of Sciences**, specializing in Artificial Intelligence. 
 
-I thrive on following cutting-edge AI research, actively contributing to open-source communities.
+I thrive on following cutting-edge AI research, actively contributing to open-source communities. There is my academic [page](https://kwen-chen.github.io/).
 
 ## 🌱 Interests
 
